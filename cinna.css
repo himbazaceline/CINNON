@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.buttons a {
+    color: white;
+    text-decoration: none;
+margin-left: 80px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    margin-left: 80px;
+}
+h1{
+   
+    color: white;
+    font-size: 93px;
+    font-family: normal;
+}
+h2{
+    color: grey;
+
+    font-size: 22px;
+
+}
+.content{
+    margin-left: 80px;
+}
